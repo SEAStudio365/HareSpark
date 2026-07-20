@@ -3,12 +3,12 @@
     <channel>
         <title>HareSpark</title>
         <item>
-            <title>1.3.7</title>
-            <pubDate>Mon, 20 Jul 2026 08:26:59 +0800</pubDate>
+            <title>1.3.8</title>
+            <pubDate>Mon, 20 Jul 2026 08:28:19 +0800</pubDate>
             <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SEAStudio365/HareSpark/releases/download/v1.3.7/HareSpark-1.3.7.dmg" length="4454564" type="application/octet-stream" sparkle:edSignature="n1qbu16di12MDpmip7TLHSoUfA3SzHKpM941O/Av8g/0O4W7msHo5n4U9/6eFTUabQWLNh6ja7LL8gpBtLACCA=="/>
+            <enclosure url="https://github.com/SEAStudio365/HareSpark/releases/download/v1.3.8/HareSpark-1.3.8.dmg" length="4454579" type="application/octet-stream" sparkle:edSignature="gmNIjs/v+P1e5wQRpdWk3792LGgFgQak2WNJBT7u0KMtDEGzKzef9CfrCqy3K2XmilPp94XMnGOw34P6aD6bAA=="/>
         </item>
     </channel>
 </rss>
