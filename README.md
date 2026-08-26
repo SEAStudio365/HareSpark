@@ -6,7 +6,7 @@
 
 A menu-bar app switcher for macOS, driven entirely by the trackpad.
 
-[**Download the latest release**](../../releases/latest) · [繁體中文說明](README.zh-Hant.md)
+[**Download the latest release**](../../releases/latest) · [Changelog](CHANGELOG.md) · [繁體中文說明](README.zh-Hant.md)
 
 </div>
 

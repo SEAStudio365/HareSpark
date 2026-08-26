@@ -6,7 +6,7 @@
 
 macOS 選單列上的 App 切換器，整套操作都在觸控板上完成。
 
-[**下載最新版本**](../../releases/latest) · [English](README.md)
+[**下載最新版本**](../../releases/latest) · [更新紀錄](CHANGELOG.zh-Hant.md) · [English](README.md)
 
 </div>
 
