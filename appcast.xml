@@ -3,12 +3,20 @@
     <channel>
         <title>HareSpark</title>
         <item>
-            <title>1.4.3</title>
-            <pubDate>Wed, 26 Aug 2026 09:28:35 +0800</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <title>1.4.4</title>
+            <pubDate>Mon, 31 Aug 2026 09:49:22 +0800</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SEAStudio365/HareSpark/releases/download/v1.4.3/HareSpark-1.4.3.dmg" length="4774240" type="application/octet-stream" sparkle:edSignature="4ZWsgpBIrGTGvNSO/K7Yli8UrIljGzOvYeo4K3uIWscwyRlU7/OgLDLRJE1d+aW0r9EH9TgHNRFC9lze4VHWCg=="/>
+            <description sparkle:format="markdown"><![CDATA[### 修正
+
+- 修正熱插拔裝置的驅動問題：藍牙巧控板在登入後才連上時不再失去反應，睡眠喚醒後也能正常辨識手勢
+
+### Fixed
+
+- Fixed a driver issue with hot-plugged devices: a Bluetooth Magic Trackpad that connects after login no longer stops responding, and gestures keep working after waking from sleep
+]]></description>
+            <enclosure url="https://github.com/SEAStudio365/HareSpark/releases/download/v1.4.4/HareSpark-1.4.4.dmg" length="4781181" type="application/octet-stream" sparkle:edSignature="cug95KcZBeRW64npkHYUGi+wK6FGUstLI8CxLgAYZ1Bddes61JhAnkcbxSH0uKegyba6iG4pJ16mGUfwwEQACw=="/>
         </item>
     </channel>
 </rss>
