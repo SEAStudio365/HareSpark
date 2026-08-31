@@ -2,6 +2,19 @@
 
 All notable changes to HareSpark. [繁體中文](CHANGELOG.zh-Hant.md)
 
+## 1.4.4
+
+**Fixed**
+
+- **Trackpads connected after launch now work.** HareSpark only looked for
+  trackpads once, at startup. A Bluetooth Magic Trackpad that finished pairing
+  after login — the usual order, since the app is up well before the trackpad
+  reconnects — never delivered a single gesture until the app was relaunched.
+  It now watches for trackpads arriving and leaving, and picks up new ones on
+  its own.
+- **No more crash on wake.** Re-reading the trackpad list after waking from
+  sleep could trap the app. Gestures now survive a sleep/wake cycle.
+
 ## 1.4.3
 
 **Fixed**
