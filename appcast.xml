@@ -3,36 +3,20 @@
     <channel>
         <title>HareSpark</title>
         <item>
-            <title>2.1.0</title>
-            <pubDate>Thu, 22 Oct 2026 09:08:18 +0800</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <title>2.1.1</title>
+            <pubDate>Wed, 18 Nov 2026 14:45:18 +0800</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### 新功能
+            <description sparkle:format="markdown"><![CDATA[### 修正
 
-- **三指切換同一個 App 的視窗**：視窗鎖定時三指往左右滑，框會在同一個 App 的視窗之間移動，放開手指就把它拉到最前面，游標也跟著過去
-- 教學新增「切換視窗」的練習和示範
+- 視窗有一部分超出螢幕邊緣時，置頂後滑鼠移出，畫面不會再被拉伸成不同尺寸
 
-### 改進
+### Fixed
 
-- 分隔線只在你正在使用那組排版時才會出現，切到別的 App 後經過 Dock 附近不會再誤跳出來
-- 按住分隔線時，兩側被其他 App 蓋住的視窗會一起跳到最前面
-- 拖曳分隔線碰到 App 的最小尺寸（例如 Finder）會停住，四格排版不再有視窗脫隊
-- 修正：用三指切換器切到別的 App 後，置頂的視窗會被取消置頂
-
-### New
-
-- **Switch between an app's windows with three fingers**: with a window locked, swipe three fingers left or right to move the ring through that app's windows, then lift to bring the ringed one forward — the pointer follows
-- The tutorial now covers switching windows, with a practice step and a demo
-
-### Improved
-
-- The divider only appears for the layout you are working in, so it no longer pops up when the pointer passes near the Dock in another app
-- Grabbing a divider brings every window on both sides to the front, even ones buried under another app
-- Dragging a divider stops where an app will not shrink any further (Finder, for one), so no window in a four-way layout drifts off the line
-- Fixed: switching apps with the three-finger switcher could unpin a pinned window
+- A pinned window hanging off the edge of the screen no longer shows a stretched picture once the pointer leaves it
 ]]></description>
-            <enclosure url="https://github.com/SEAStudio365/HareSpark/releases/download/v2.1.0/HareSpark-2.1.0.dmg" length="5305036" type="application/octet-stream" sparkle:edSignature="sGFDli+wLlGj2sSm8J9vjnL8QullpARXWo3StJhgT2OB6AYRINvW3uN13qreKulTGmz9/rquWCLdrGO4+yYRDg=="/>
+            <enclosure url="https://github.com/SEAStudio365/HareSpark/releases/download/v2.1.1/HareSpark-2.1.1.dmg" length="5305939" type="application/octet-stream" sparkle:edSignature="2rjmQkqT3gkndbYYyqyfi9JW/5M5JV7Um32wyRW4HlGM79vQA6IKGJVXQAizm7kTtKnkPI4dGBhvf965THOJCw=="/>
         </item>
     </channel>
 </rss>
